@@ -36,7 +36,7 @@
 
 ## Overview
 
-!Screenshot(https://github.com/shobhit-sirohi/team-page/blob/images/scr.png?raw=true)
+!Screenshot(images/scr.png?raw=true)
 
 
 ## Built With
