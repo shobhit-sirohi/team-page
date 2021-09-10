@@ -36,7 +36,8 @@
 
 ## Overview
 
-!Screenshot(images/scr.png?raw=true)
+<img width="1440" alt="scr" src="https://user-images.githubusercontent.com/21247694/132895957-316f129c-c4c6-4fec-9c2d-6ee83a83b919.png">
+
 
 
 ## Built With
