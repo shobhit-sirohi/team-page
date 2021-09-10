@@ -39,11 +39,11 @@
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 
-### Built With
+## Built With
 
 - [Tailwind](https://tailwindcss.com/)
 
-#### Contact
+## Contact
 
 - Website [shobhitsirohi.com](https://www.shobhitsirohi.com/)
 - GitHub [@shobhi-tsirohi](https://github.com/shobhit-sirohi)
