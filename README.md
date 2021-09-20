@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://hopeful-sinoussi-408375.netlify.app/">
+    <a href="https://hopeful-sinoussi-408375.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://devchallenges.io/solutions/xqhVFY8XPc544DjKphCz">
+    <a href="https://devchallenges.io/solutions/xqhVFY8XPc544DjKphCz">
       Solution
     </a>
     <span> | </span>
@@ -23,14 +23,6 @@
 </div>
 
 
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 
 
